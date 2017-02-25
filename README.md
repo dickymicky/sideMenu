@@ -1,8 +1,17 @@
 # SIDE MENU
 
 자바스크립트 플러그인 입니다.
+```html
+<br />
+```
 LESS 환경에서 구동됩니다.
-마음껏 활용하세요.  
+```html
+<br />
+```
+마음껏 활용하세요.
+```html
+<br /><br />
+```
 
 ![사이드메뉴](http://herop.me/images/sidemenu.jpg)
 
