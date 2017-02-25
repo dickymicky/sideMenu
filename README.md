@@ -2,7 +2,7 @@
 
 자바스크립트 플러그인 입니다.
 LESS 환경에서 구동됩니다.
-마음껏 활용하세요.
+마음껏 활용하세요.  
 
 ![사이드메뉴](http://herop.me/images/sidemenu.jpg)
 
