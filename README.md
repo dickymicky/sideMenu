@@ -1,16 +1,16 @@
 # SIDE MENU
 
-�ڹٽ�ũ��Ʈ �÷����� �Դϴ�.
-LESS ȯ�濡�� �����˴ϴ�.
-������ Ȱ���ϼ���.
+자바스크립트 플러그인 입니다.
+LESS 환경에서 구동됩니다.
+마음껏 활용하세요.
 
-![���̵�޴�](http://herop.me/images/sidemenu.jpg)
+![사이드메뉴](http://herop.me/images/sidemenu.jpg)
 
 ### Options
 
-- `selector` ���̵� �޴��� ������
-- `showBtnSelector` ���̵� �޴� Ȱ��ȭ ��ư ������
-- `shadowSelector` ���̵� �޴� Ȱ��ȭ ���
+- `selector` 사이드 메뉴의 선택자
+- `showBtnSelector` 사이드 메뉴 활성화 버튼 선택자
+- `shadowSelector` 사이드 메뉴 활성화 배경
 
 ```js
 var sideMenu = new SideMenu({
